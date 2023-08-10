@@ -10,6 +10,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hemna&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visits.dashroshan.com"><img src="https://visits.dashroshan.com/oRpcvPlLqRyAmPLkKzBT?label=VISITS&shadow=1&shadowOpacity=30&swap=0&labelBGColor=484848&countBGColor=2574EA&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a>
 
   ## 💰You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/wb4bor)
