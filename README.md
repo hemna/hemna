@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Hemna's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemna&show=reviews,discussions_started,discussions_answered)
+
 <!--
 **hemna/hemna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
